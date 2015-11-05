@@ -1,2 +1,2 @@
-# datasciencecoursea
+# datasciencecoursera
 Course project
